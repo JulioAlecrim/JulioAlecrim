@@ -17,8 +17,6 @@ Sou apaixonado por programação, com um foco especial no desenvolvimento back-e
 ---
 ## 📊 Estatísticas de Linguagens e Atividade
 
-### Linguagens Mais Usadas
-
 <div style="display: flex; justify-content: space-between;">
   <!-- Linguagens Mais Usadas -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
