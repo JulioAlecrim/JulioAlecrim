@@ -22,16 +22,16 @@ Sou apaixonado por programação, com um foco especial no desenvolvimento back-e
 <div style="display: flex; justify-content: space-between;">
   <!-- Linguagens Mais Usadas -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAlecrim&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioAlecrim&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
   </a>
 
   <!-- Estatísticas do GitHub -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JulioAlecrim&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JulioAlecrim&show_icons=true&theme=dark" alt="Estatísticas do GitHub" />
   </a>
 </div>
 
 ### Estatísticas Semanais do WakaTime
-[![Minhas estatísticas no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JulioAlecrim&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas estatísticas no WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JulioAlecrim&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
